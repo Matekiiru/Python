@@ -29,4 +29,5 @@ print(pesquisa2)
 
 pesquisa3 = site.find_all("td", class_="ylig")
 print(pesquisa2)
+print(pesquisa2["title"])
 
